@@ -1,3 +1,3 @@
 as yet unclassified
-socialOption: aUser
+processQuestions: aUser
 	^self sortQuestionsByVote: aUser following.

@@ -17,8 +17,8 @@
 		"topicOO1",
 		"topicOO2",
 		"questionUser1TopicOO1",
-		"questionUser3TopicOO2",
 		"questionUser2TopicOO2",
+		"questionUser3TopicOO2",
 		"question2User3TopicOO2"
 	],
 	"name" : "QuestionRetrieverTest",

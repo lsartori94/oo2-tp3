@@ -1,3 +1,3 @@
 as yet unclassified
-topicOption: aUser
+processQuestions: aUser
 	^self sortQuestionsByVote: aUser topics.

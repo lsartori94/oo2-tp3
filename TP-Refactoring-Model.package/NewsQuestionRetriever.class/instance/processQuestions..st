@@ -1,3 +1,3 @@
 as yet unclassified
-newsOption: aUser
+processQuestions: aUser
 	^self sortByVotes: self popularTCol.
